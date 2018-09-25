@@ -26,6 +26,7 @@ repositories {
 task print() {
     doLast {
         println "github push complete"
+        println "test commit"
     }
 }
 
